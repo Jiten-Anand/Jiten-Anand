@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jiten-Anand
 - 👀 I’m interested in Freelancing
 - 🌱 I’m currently learning JS,SAP
-- 💞️ I’m looking to collaborate on SAP
+- 💞️ I’m looking to collaborate on JAVASCRIPT
 - 📫 How to reach me...
 
 <!---
